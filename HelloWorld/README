@@ -1,0 +1,25 @@
+This is the ftp directory for GCC (GNU Compiler Collection).
+
+Releases are in the releases/ directory, weekly snapshots of the
+development sources are in the snapshots/ directory.
+
+The GCC home page is
+
+        http://gcc.gnu.org
+
+The GCC main ftp host is
+
+        ftp://gcc.gnu.org/pub/gcc
+
+and http://gcc.gnu.org/mirrors.html has a list of mirror sites.
+
+If you are going to download a snapshot, it would be a good idea to
+join the main GCC developer mailing list, or to at least look over the
+web archives of that mailing list.
+
+If you want to be able to run the testsuites, then you will need a
+recent copy of dejagnu.  Look in the "infrastructure/" directory to
+find one.
+
+The mail-archives/ directory has archives of the GCC mailing lists,
+split into months.
