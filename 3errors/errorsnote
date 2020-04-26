@@ -1,0 +1,23 @@
+/*
+    Bugs:
+    Compile-time errors: Errors found by the compiler. 
+        Some common syntax errors are: 
+            Missing semicolon ;
+            Missing closing parenthesis ), square bracket ], or curly brace }
+        Some common type errors are:
+            Forgetting to declare a variable
+            Storing a value into the wrong type
+    Link-time errors: Errors found by the linker when it is trying to combine object files into an executable program.
+        Some common link-time errors:
+            Using a function that was never defined (more on this later) 
+            Writing Main() instead of main()
+    Run-time errors: Errors found by checks in a running program.
+        Some common run-time errors:
+            Division by zero also known as division error. These types of error are hard to find as the compiler 
+                doesn’t point to the line at which the error occurs. (Floating point exception (core dumped))
+            Trying to open a file that doesn’t exist
+    Logic errors: Errors found by the programmer looking for the causes of erroneous results.
+        Some common logic errors:
+            Program logic is flawed
+            Some “silly” mistake in an if statement or a for/while loop
+*/
