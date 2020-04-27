@@ -2,7 +2,7 @@
 #include <itpp/itbase.h> //source code: https://sourceforge.net/projects/itpp/
                          //install on mac: http://macappstore.org/itpp/
 
-//compile: g++ `itpp-config --cflags` -o ITPP ITPP.cpp `itpp-config --libs`
+//compile: g++ `itpp-config --cflags` -o ITPP ITPP.cpp `itpp-config --libs` for itpp lib
 
 using namespace itpp;
 
