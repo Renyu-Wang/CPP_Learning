@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+  
+=======
+>>>>>>> 75d9fffb07e3d99127e56e359cc49a18e7d458c0
+# makefile example
+# how to run:  make coninflip.out
+coinflip.out:coinflip.cpp
+	g++ $< -o $@
