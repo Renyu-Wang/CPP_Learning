@@ -1,6 +1,7 @@
 #include<iostream>
 #include <itpp/itbase.h> //source code: https://sourceforge.net/projects/itpp/
                          //install on mac: http://macappstore.org/itpp/
+//#include<itpp/base/gf2mat.h> http://itpp.sourceforge.net/4.3.1/classitpp_1_1GF2mat.html
 
 //compile: g++ `itpp-config --cflags` -o ITPP ITPP.cpp `itpp-config --libs` for itpp lib
 
